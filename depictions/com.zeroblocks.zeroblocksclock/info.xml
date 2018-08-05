@@ -1,7 +1,7 @@
 <package>
 	<id>com.zeroblocks.zeroblocksclock</id>
 	<name>ZeroBlocks Clock</name>
-	<version>1.0.0-1</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.3.1</maxiOS>
