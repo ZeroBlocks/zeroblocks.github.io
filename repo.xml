@@ -2,16 +2,16 @@
 	<footerlinks>
 		<link>
 			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/ZerBlocks</url>
+			<url>https://twitter.com/ZeroBlocks</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
 			<name>Check out my Reddit posts</name>
-			<url>https://reddit.com/r/ZeroBlocks/</url>
+			<url>https://reddit.com/u/ZeroBlocks/</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 		<link>
-			<name>I want my own repo as well</name>
+			<name>I want my own repo</name>
 			<url>https://github.com/supermamon/Reposi3/</url>
 			<iconclass>fa fa-plus-circle</iconclass>
 		</link>
