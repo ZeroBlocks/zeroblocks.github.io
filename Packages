@@ -1,12 +1,12 @@
 Package: com.zeroblocks.zeroblocksclock
-Version: 1.0
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: ZeroBlocks
-Filename: debs/com.zeroblocks.zeroblocksclock_1.0_iphoneos-arm.deb
-Size: 29840
-MD5sum: a9056b6209c0a9fcc71aac1954f119b9
-SHA1: 8fba3bd1fde2dc3083a379611f5d614036bdc8ce
-SHA256: e688d9ef51ac4e3301ec7e5a3d82ac9fd4af59ac520f3fa4eed7d43fa43f8f8f
+Filename: debs/com.zeroblocks.zeroblocksclock_1.0.0_iphoneos-arm.deb
+Size: 29844
+MD5sum: fbf7e72431c676267922044dd54e8db3
+SHA1: 5f5eee3c31e389e5b15320201ba8fac8ff84a794
+SHA256: 31db687e19a497dc5a6370ed215c5dc7016adbf25258d205b0c8de9d39605758
 Section: Widgets
 Description: This is my first XenHTML Clock, made from scratch to my personal preferences.
 Author: ZeroBlocks
