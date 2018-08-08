@@ -1,3 +1,17 @@
+Package: com.zeroblocks.glitchedout
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ZeroBlocks
+Filename: debs/com.zeroblocks.glitchedout_1.0.0_iphoneos-arm.deb
+Size: 60392
+MD5sum: 261bb9ebbda8f352c51ecfd6c62f7e6d
+SHA1: 49ff75ba8c83c32aee3711cf476d6e03589bb8a2
+SHA256: b8510729832d18059c53c8a271bd2fdf975c9f41baf5090ae0e7199f80c2117b
+Section: Widgets
+Description: Glitchy XenHTML Lockscreen Clock, made from scratch.
+Author: ZeroBlocks
+Name: Glitched Out
+
 Package: com.zeroblocks.zeroblocksclock
 Version: 1.0.0
 Architecture: iphoneos-arm
