@@ -1,6 +1,6 @@
 <package>
-	<id>com.zeroblocks.glitchedout</id>
-	<name>Glitched Out</name>
+	<id>com.zeroblocks.goodmorningjohn</id>
+	<name>Goodmorning John</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Glitchy XenHTML Lockscreen Clock, made from scratch.</description>
+		<description>XenHTML widget for Homescreen which will greet you nicely, set name in settings.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

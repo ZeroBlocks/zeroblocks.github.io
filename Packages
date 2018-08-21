@@ -12,6 +12,21 @@ Description: Glitchy XenHTML Lockscreen Clock, made from scratch.
 Author: ZeroBlocks
 Name: Glitched Out
 
+Package: com.zeroblocks.goodmorningjohn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ZeroBlocks
+Depends: com.junesiphone.xeninfo
+Filename: debs/com.zeroblocks.goodmorningjohn_1.0.0_iphoneos-arm.deb.deb
+Size: 30208
+MD5sum: dd5f5a8ab57fbf337bc7e2724b2c87aa
+SHA1: a39cc1e92fd318cb29f8eba73c6ddc8856ede046
+SHA256: 4de88c63e20bb0b7361f7a0cd02e1ff940d756483c98d73e32c1b3d8c7973bcc
+Section: Widgets
+Description: XenHTML widget for Homescreen, set name in settings.
+Author: ZeroBlocks
+Name: Goodmorning John
+
 Package: com.zeroblocks.zeroblocksclock
 Version: 1.0.0
 Architecture: iphoneos-arm
