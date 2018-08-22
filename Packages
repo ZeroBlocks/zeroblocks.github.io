@@ -13,17 +13,17 @@ Author: ZeroBlocks
 Name: Glitched Out
 
 Package: com.zeroblocks.goodmorningjohn
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: ZeroBlocks
 Depends: com.junesiphone.xeninfo
-Filename: debs/com.zeroblocks.goodmorningjohn_1.0.0_iphoneos-arm.deb.deb
-Size: 30208
-MD5sum: dd5f5a8ab57fbf337bc7e2724b2c87aa
-SHA1: a39cc1e92fd318cb29f8eba73c6ddc8856ede046
-SHA256: 4de88c63e20bb0b7361f7a0cd02e1ff940d756483c98d73e32c1b3d8c7973bcc
+Filename: debs/com.zeroblocks.goodmorningjohn_1.1.0_iphoneos-arm.deb
+Size: 30220
+MD5sum: f20accf2e61f0973a717550cd027b0f9
+SHA1: 07fd710c7d198bdbf217577bb39efb38d48f40ee
+SHA256: 9a9fa8dbb17e77349f6bfee347139f7c399a5d051cc449b0cf3b55c6b527f9d6
 Section: Widgets
-Description: XenHTML widget for Homescreen, set name in settings.
+Description: XenHTML widget for Homescreen which will greet you nicely, set name in settings.
 Author: ZeroBlocks
 Name: Goodmorning John
 
