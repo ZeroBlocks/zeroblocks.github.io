@@ -27,6 +27,20 @@ Description: XenHTML widget for Homescreen which will greet you nicely, set name
 Author: ZeroBlocks
 Name: Goodmorning John
 
+Package: com.zeroblocks.tlab
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ZeroBlocks
+Filename: debs/com.zeroblocks.tlab_1.0.0_iphoneos-arm.deb.deb
+Size: 2589796
+MD5sum: c9837ca0a48c996346edb4e84b0ce1bc
+SHA1: dd3ca3356f9b7be970b1d68c1bfdceda8a040c38
+SHA256: 666be259751ba0feb9c03fa8cd56a3d8a02e3a0a56a5e8c5ec9de9d00fe7f65b
+Section: Widgets
+Description: XenHTML widget for Lockscreen - TLAB Logo with glitch
+Author: ZeroBlocks
+Name: TLAB
+
 Package: com.zeroblocks.zeroblocksclock
 Version: 1.0.0
 Architecture: iphoneos-arm
