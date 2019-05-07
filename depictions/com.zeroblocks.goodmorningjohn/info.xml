@@ -1,10 +1,10 @@
 <package>
 	<id>com.zeroblocks.goodmorningjohn</id>
 	<name>Goodmorning John</name>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>11.3.1</maxiOS>
+			<maxiOS>12.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -17,7 +17,8 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Change fontsize to fit screen</change>
+		<version>1.1.2</version>
+		<change>Update to support lockscreen and homescreen placement</change>
 	</changelog>
 	<links></links>
 </package>

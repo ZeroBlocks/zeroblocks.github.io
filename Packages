@@ -1,55 +1,55 @@
 Package: com.zeroblocks.glitchedout
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: ZeroBlocks
-Filename: debs/com.zeroblocks.glitchedout_1.0.0_iphoneos-arm.deb
-Size: 60392
-MD5sum: 261bb9ebbda8f352c51ecfd6c62f7e6d
-SHA1: 49ff75ba8c83c32aee3711cf476d6e03589bb8a2
-SHA256: b8510729832d18059c53c8a271bd2fdf975c9f41baf5090ae0e7199f80c2117b
+Filename: debs/com.zeroblocks.glitchedout_1.0.1_iphoneos-arm.deb
+Size: 60896
+MD5sum: 7e9fa25208ef600927d385b9ee7053b8
+SHA1: 7ee52908f2885953aa04695a28f0ffae0dc91d2d
+SHA256: ef41bbc01467da91139c8ead8fd2253c91ee9296e62c1c341a8591cb274d94a6
 Section: Widgets
 Description: Glitchy XenHTML Lockscreen Clock, made from scratch.
 Author: ZeroBlocks
 Name: Glitched Out
 
 Package: com.zeroblocks.goodmorningjohn
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: ZeroBlocks
 Depends: com.junesiphone.xeninfo
-Filename: debs/com.zeroblocks.goodmorningjohn_1.1.1_iphoneos-arm.deb
-Size: 30228
-MD5sum: 37131fbdcf915864ffd9181a7dd10d7e
-SHA1: 5c354fe2ca596a3cc662c7df489afe649430c61c
-SHA256: 3b2ed27a8487016a3fb82ce86de45c8e0a7096532f98a0cadff2cbe737d55810
+Filename: debs/com.zeroblocks.goodmorningjohn_1.1.2_iphoneos-arm.deb
+Size: 30764
+MD5sum: 6eed9913b5a1fab35ecc904a666f9c05
+SHA1: d2d9e626a585c1645ed407f77fb0b630b7c0f74b
+SHA256: 7724a1d9645aa46ab8407e7e1e34f06cafc1ab59d3f301fa09f871ceb8aa1220
 Section: Widgets
 Description: XenHTML widget for Homescreen which will greet you nicely, set name in settings.
 Author: ZeroBlocks
 Name: Goodmorning John
 
 Package: com.zeroblocks.tlab
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: ZeroBlocks
-Filename: debs/com.zeroblocks.tlab_1.0.0_iphoneos-arm.deb.deb
-Size: 2589796
-MD5sum: c9837ca0a48c996346edb4e84b0ce1bc
-SHA1: dd3ca3356f9b7be970b1d68c1bfdceda8a040c38
-SHA256: 666be259751ba0feb9c03fa8cd56a3d8a02e3a0a56a5e8c5ec9de9d00fe7f65b
+Filename: debs/com.zeroblocks.tlab_1.0.1_iphoneos-arm.deb.deb
+Size: 2590820
+MD5sum: 71531c3a85167445072b205bd2348eb9
+SHA1: f78ec2be56d894c685bcea7b9c8b3dfd76377453
+SHA256: d0d9a887b25a452ccbb0613da6dd86fabe82ec816e3f79ba95b1102f2ca4bcd0
 Section: Widgets
 Description: XenHTML widget for Lockscreen - TLAB Logo with glitch
 Author: ZeroBlocks
 Name: TLAB
 
 Package: com.zeroblocks.zeroblocksclock
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: ZeroBlocks
-Filename: debs/com.zeroblocks.zeroblocksclock_1.0.0_iphoneos-arm.deb
-Size: 29844
-MD5sum: fbf7e72431c676267922044dd54e8db3
-SHA1: 5f5eee3c31e389e5b15320201ba8fac8ff84a794
-SHA256: 31db687e19a497dc5a6370ed215c5dc7016adbf25258d205b0c8de9d39605758
+Filename: debs/com.zeroblocks.zeroblocksclock_1.0.1_iphoneos-arm.deb
+Size: 30404
+MD5sum: c782c939d5ee78824acbef5b7c42064e
+SHA1: 4f01f518fe99e8fedd55a869aef6d182335cbce7
+SHA256: 897039df92b1be0080f568963797ad67dadab9d56336d06561e09c6330d95703
 Section: Widgets
 Description: This is my first XenHTML Clock, made from scratch to my personal preferences.
 Author: ZeroBlocks

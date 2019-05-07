@@ -1,10 +1,10 @@
 <package>
 	<id>com.zeroblocks.zeroblocksclock</id>
 	<name>ZeroBlocks Clock</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>11.3.1</maxiOS>
+			<maxiOS>12.1</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -17,7 +17,8 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<version>1.0.1</version>
+		<change>Update to support lockscreen and homescreen placement</change>
 	</changelog>
 	<links></links>
 </package>

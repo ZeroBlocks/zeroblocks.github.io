@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Update to support lockscreen and homescreen placement</change>
 		<version>1.0.0</version>
 		<change>Initial release</change>
 	</changes>
